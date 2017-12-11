@@ -37,7 +37,7 @@ Please only use github for bugs or pull request.
   * Make sure you fill in the earliest version that you know has the issue if it is a bug.
   * Clearly describe the issue including steps to reproduce the bug
 
-### Requesting a new feature or ehancement
+### Requesting a new feature or enhancement
 
 Please use the community forum: http://community.passbolt.com/
 Do not use github to request new features.
